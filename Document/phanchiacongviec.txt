@@ -1,0 +1,5 @@
+van dat: quan ly bai dang, quan ly truy cap
+ba dat: tim kiem, quan ly tai khoan
+anh khoa: xem bai dang,quan ly co so thu y
+van quot: xem thong tin thu cung, quan ly thong tin thu cung
+anh dung: tra cuu co so thu y, quan ly thong tin tai khoan
